@@ -1,95 +1,128 @@
-# 안녕하세요 👋
+# 👋 UX/UI 디자이너
 
-사용자 흐름을 구조적으로 설계하는 UX/UI 디자이너입니다.
+> 사용자 흐름과 인터랙션 구조를 설계합니다.
 
-화려한 화면보다
 사용자가 길을 잃지 않는 정보 구조와
-직관적인 인터랙션 설계에 더 큰 가치를 두고 있습니다.
+직관적인 사용자 경험을 중요하게 생각합니다.
 
 기획 → UX 설계 → UI 디자인 → 프로토타입 구현까지
 직접 연결하며 사용자 경험을 고민합니다.
 
-현재는
+---
 
-* UX/UI 디자인
-* 반응형 웹 구현
-* 인터랙션 기반 프로토타입
-* 사용자 흐름 설계
-  를 중심으로 프로젝트를 만들고 있습니다.
-✔ 직관적인 사용자 흐름을 설계하는 UX/UI 디자이너
+# 🧠 UX 사고 흐름
 
-✔ 문제를 구조적으로 분석하는 UX/UI Designer
+```mermaid
+flowchart LR
 
-✔ 사용자 경험을 논리적으로 설계하는 디자이너
+A[문제 발견] --> B[사용자 분석]
+B --> C[사용자 흐름 설계]
+C --> D[UI 구조 설계]
+D --> E[프로토타입]
+E --> F[UX 개선]
+```
 
-✔ 디자인과 구현의 간극을 줄이는 UX/UI 디자이너
+---
 
-✔ 사용자 행동 흐름 중심의 인터페이스를 설계합니다
+# 🌱 대표 프로젝트 · 작심농장
 
+```mermaid
+stateDiagram-v2
 
-## 🛠 Skills
+[*] --> 시작
 
-### Design
-- Figma
-- Photoshop
-- Illustrator
+시작 --> 기록하기
+기록하기 --> 성장
 
-### Frontend
-- HTML
-- CSS
-- JavaScript
+기록하기 --> 기록누락
+기록누락 --> 시듦
 
-### UX
-- User Flow
-- Wireframe
-- Prototype
-- Interaction Design
-- Responsive Web
+성장 --> 동기부여
+시듦 --> 재도전
+재도전 --> 성장
+```
 
+> 습관 지속 과정을 성장과 시듦 상태 변화로 시각화한 UX/UI 프로젝트
 
-## 🌱 Featured Project
+---
 
-### 작심농장
+# 👤 사용자 경험 흐름
 
-습관 지속 과정을 농작물 성장 메타포로 시각화한 UX/UI 프로젝트입니다.
+```mermaid
+journey
+    title 사용자 경험 흐름
 
-단순 기록 앱이 아니라
-사용자의 행동 지연과 감정 변화를 UI 상태 변화로 연결하는 구조를 설계했습니다.
+    section 시작
+      목표 설정: 5: 사용자
+      습관 기록: 5: 사용자
 
-### 핵심 경험 설계
+    section 상태 변화
+      성장 애니메이션: 5: 시스템
+      시듦 상태 변화: 2: 시스템
 
-* 행동 기록 여부에 따른 상태 변화
-* 성장/시듦 인터랙션 구조
-* 직관적인 사용자 흐름 설계
-* 감정 기반 피드백 UX
-* 모바일 중심 반응형 UI 구현
+    section 피드백
+      진행률 확인: 4: 사용자
+      동기부여 메시지: 5: 시스템
+```
 
-### Tech
+---
 
-Figma · HTML · CSS · JavaScript
+# 🛠 작업 영역
 
+```mermaid
+mindmap
+  root((UX/UI))
 
+    UX
+      사용자 흐름
+      와이어프레임
+      프로토타입
 
-📁 repositories
+    UI
+      인터랙션
+      반응형 웹
+      디자인 시스템
 
-- habit-tracker-ui
-- responsive-portfolio
-- ui-prototype-project
-- interaction-animation
-- design-system-study
+    TOOLS
+      Figma
+      Photoshop
+      Illustrator
+```
 
+---
 
-🌐 Portfolio
-(https://uiux0718.github.io/portfolio-2026/)
+# 📂 프로젝트 방향
 
+```mermaid
+graph TD
 
-📧 Email
-banrose12@naver.com
+A[Projects]
 
+A --> B[습관 기록 UX]
+A --> C[반응형 웹]
+A --> D[인터랙션 UI]
+A --> E[디자인 시스템]
+```
 
-## 📚 Currently Learning
+---
 
-- UX Writing
-- Interaction Design
-- Responsive Web
-- JavaScript UI Logic
+# 📚 현재 학습 중
+
+```mermaid
+graph LR
+
+A[UX Writing]
+A --> B[Interaction]
+A --> C[Responsive Web]
+A --> D[UI Logic]
+```
+
+---
+
+# 🌐 Portfolio
+
+[포트폴리오 바로가기](https://uiux0718.github.io/portfolio-2026/)
+
+# 📧 Contact
+
+[banrose12@naver.com](mailto:banrose12@naver.com)
