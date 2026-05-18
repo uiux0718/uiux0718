@@ -1,16 +1,18 @@
-## Hi there 👋
+# 안녕하세요 👋
 
-<!--
-**uiux0718/uiux0718** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+사용자 흐름을 구조적으로 설계하는 UX/UI 디자이너입니다.
 
-Here are some ideas to get you started:
+화려한 화면보다
+사용자가 길을 잃지 않는 정보 구조와
+직관적인 인터랙션 설계에 더 큰 가치를 두고 있습니다.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+기획 → UX 설계 → UI 디자인 → 프로토타입 구현까지
+직접 연결하며 사용자 경험을 고민합니다.
+
+현재는
+
+* UX/UI 디자인
+* 반응형 웹 구현
+* 인터랙션 기반 프로토타입
+* 사용자 흐름 설계
+  를 중심으로 프로젝트를 만들고 있습니다.
